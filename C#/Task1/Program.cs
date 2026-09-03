@@ -75,6 +75,13 @@ namespace Task1
             string str2 = "World";  
             string combined = str1 + " " + str2;
             Console.WriteLine($"Combined string: {combined}"); // Output: Combined string: Hello World
+
+
+            // 8- b)A value 1 will be assigned to d
+
+            // 9- d)6 1
+
+            // 10- d)7 7
         }
     }
 }
